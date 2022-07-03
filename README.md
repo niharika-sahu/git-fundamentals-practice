@@ -1,2 +1,4 @@
 # git-fundamentals-practice
-This is a practice repo
+# My Practice Repo
+
+This is a practice repository
